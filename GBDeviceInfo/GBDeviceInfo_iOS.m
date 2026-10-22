@@ -327,6 +327,9 @@
                 // 18 Pro Max
                 @[@19, @3]: @[@(GBDeviceModeliPhone18ProMax), @"iPhone 18 Pro Max", @(GBDeviceDisplay6p9Inch), @460],
                 @[@19, @7]: @[@(GBDeviceModeliPhone18ProMax), @"iPhone 18 Pro Max", @(GBDeviceDisplay6p9Inch), @460],
+
+                // Duo (foldable; main screen is the 5.4" outer display, the inner display is 7.6")
+                @[@19, @4]: @[@(GBDeviceModeliPhoneDuo), @"iPhone Duo", @(GBDeviceDisplay5p4Inch), @460],
             },
             @"iPad": @{
                 // 1
